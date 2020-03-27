@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">wss.cool</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2020-03-27T17:23:22+00:00</updated>
+    <id>https://wss.cool/</id>
+    <link rel="alternate" type="text/html" href="https://wss.cool/" />
+    <link rel="self" type="application/atom+xml" href="https://wss.cool/atom.xml" />
+    <author>
+            <name>wangshushuo</name>
+            <uri>https://wss.cool/</uri>
+            
+                <email>wangshushuo@qq.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.64.0">Hugo</generator>
+        <entry>
+            <title type="text">Hello World</title>
+            <link rel="alternate" type="text/html" href="https://wss.cool/posts/hello-world/" />
+            <id>https://wss.cool/posts/hello-world/</id>
+            <updated>2020-03-27T17:23:20+00:00</updated>
+            <published>2020-03-26T22:02:31+08:00</published>
+            <author>
+                    <name>wangshushuo</name>
+                    <uri>https://wss.cool/</uri>
+                    <email>wangshushuo@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[图片 有说明文字
+![amstelvar-roman-gnome-fonts-info.png](/images/amstelvar-roman-gnome-fonts-info.png &quot;Amstelvar Roman 字体的信息&quot;) 分类  API操作手册（简单的API操作的记录）  前端  css react axios   后端  java hashmap 使用 spring security Spring mvc Spring oauth2   服务器  nginx  静态网站 反向代理   linux  使用源码安装软件 ssh 登录，指定私钥文件（证书）       知识点（技术原理）  react  diff 元素 virtual dom hooks 生命周期   nginx  负载均衡   java  hashmap原理     折腾（需要若干步骤、若干知识点、若干API操作组合而解决问题）  博客支持服务 gitlab的ci   心得与经验（经历了一些事情后的想法，总结规律，思考结果。思想活动）  如何改bug 老板评价员工的逻辑 如何应付需求变动 如何写出好的代码 如何少加班 面试时总是没什么聊的怎么办？    ]]></summary>
+            
+                <content type="html"><![CDATA[<h1 id="图片">图片</h1>
+<p>有说明文字</p>
+<pre><code>![amstelvar-roman-gnome-fonts-info.png](/images/amstelvar-roman-gnome-fonts-info.png &quot;Amstelvar Roman 字体的信息&quot;)
+</code></pre><h1 id="分类">分类</h1>
+<ul>
+<li>API操作手册（简单的API操作的记录）
+<ul>
+<li>前端
+<ul>
+<li>css</li>
+<li>react</li>
+<li>axios</li>
+</ul>
+</li>
+<li>后端
+<ul>
+<li>java hashmap 使用</li>
+<li>spring security</li>
+<li>Spring mvc</li>
+<li>Spring oauth2</li>
+</ul>
+</li>
+<li>服务器
+<ul>
+<li>nginx
+<ul>
+<li>静态网站</li>
+<li>反向代理</li>
+</ul>
+</li>
+<li>linux
+<ul>
+<li>使用源码安装软件</li>
+<li>ssh 登录，指定私钥文件（证书）</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>知识点（技术原理）
+<ul>
+<li>react
+<ul>
+<li>diff</li>
+<li>元素</li>
+<li>virtual dom</li>
+<li>hooks</li>
+<li>生命周期</li>
+</ul>
+</li>
+<li>nginx
+<ul>
+<li>负载均衡</li>
+</ul>
+</li>
+<li>java
+<ul>
+<li>hashmap原理</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>折腾（需要若干步骤、若干知识点、若干API操作组合而解决问题）
+<ul>
+<li>博客支持服务</li>
+<li>gitlab的ci</li>
+</ul>
+</li>
+<li>心得与经验（经历了一些事情后的想法，总结规律，思考结果。思想活动）
+<ul>
+<li>如何改bug</li>
+<li>老板评价员工的逻辑</li>
+<li>如何应付需求变动</li>
+<li>如何写出好的代码</li>
+<li>如何少加班</li>
+<li>面试时总是没什么聊的怎么办？</li>
+</ul>
+</li>
+</ul>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">关于代价的思考</title>
+            <link rel="alternate" type="text/html" href="https://wss.cool/%E5%85%B3%E4%BA%8E%E4%BB%A3%E4%BB%B7%E7%9A%84%E6%80%9D%E8%80%83.html" />
+            <id>https://wss.cool/%E5%85%B3%E4%BA%8E%E4%BB%A3%E4%BB%B7%E7%9A%84%E6%80%9D%E8%80%83.html</id>
+            <updated>2020-02-26T13:45:16+08:00</updated>
+            <published>2020-02-26T13:45:16+08:00</published>
+            <author>
+                    <name>wangshushuo</name>
+                    <uri>https://wss.cool/</uri>
+                    <email>wangshushuo@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[摘要，显示在meta的description中，]]></summary>
+            
+                <content type="html"><![CDATA[<p>领导或者不懂软件的领导，经常把开发软件想想成一个“多快好省”的过程——最少的人用最少的时间，开发出功能又多又好用又易于维护和扩展的软件。</p>
+<p>“多快省”的代价就是“不好”，功能多但是有些功能可能不好用，项目可能不好维护，难于扩展，会导致半年一年以后，各种老旧bug改不动，或者有层出不穷的bug，或者想要的功能难以加到现有的系统各种。</p>
+<p>“多快好”的代价就是“不省”，要多花钱请一些高手来设计和开发项目，在项目的维护阶段，才能更容易处理bug或加功能。</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/categories/%E5%89%8D%E7%AB%AF/" term="前端" label="前端" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/categories/%E5%88%86%E7%B1%BB/" term="分类" label="分类" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/tags/%E6%98%BE%E7%A4%BA%E5%9C%A8%E5%BA%95%E9%83%A8/" term="显示在底部" label="显示在底部" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">见闻纪要</title>
+            <link rel="alternate" type="text/html" href="https://wss.cool/%E8%A7%81%E9%97%BB%E7%BA%AA%E8%A6%81.html" />
+            <id>https://wss.cool/%E8%A7%81%E9%97%BB%E7%BA%AA%E8%A6%81.html</id>
+            <updated>2019-11-18T10:59:42+08:00</updated>
+            <published>2019-11-18T10:59:42+08:00</published>
+            <author>
+                    <name>wangshushuo</name>
+                    <uri>https://wss.cool/</uri>
+                    <email>wangshushuo@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[摘要，显示在meta的description中，]]></summary>
+            
+                <content type="html"><![CDATA[<h1 id="康奈尔笔记法">康奈尔笔记法</h1>
+<p>2019年11月25日12:26:15</p>
+<p>上半右边为要点，左边为线索，下部为总结。看的过程中记录要点，看完了提炼线索。总结整个笔记，用自己的语言，最好与已经会的东西发生练习。</p>
+<h1 id="postgresql与mysql对比">PostgreSQL与MySQL对比</h1>
+<p><a href="https://www.zhihu.com/question/20010554">知乎帖子</a></p>
+<p><a href="http://www.ruanyifeng.com/blog/2013/12/getting_started_with_postgresql.html">pg攻略</a></p>
+<h1 id="python控制手机">python控制手机</h1>
+<p><a href="https://zhuanlan.zhihu.com/p/57349184">https://zhuanlan.zhihu.com/p/57349184</a></p>
+<h1 id="梯子攻略">梯子攻略</h1>
+<p><a href="https://github.com/haoel/haoel.github.io">https://github.com/haoel/haoel.github.io</a></p>
+<h1 id="javascript开发者应懂的33个概念">JavaScript开发者应懂的33个概念</h1>
+<p><a href="https://github.com/stephentian/33-js-concepts">https://github.com/stephentian/33-js-concepts</a></p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/categories/%E5%88%86%E7%B1%BB/" term="分类" label="分类" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/categories/%E5%89%8D%E7%AB%AF/" term="前端" label="前端" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/tags/%E6%98%BE%E7%A4%BA%E5%9C%A8%E5%BA%95%E9%83%A8/" term="显示在底部" label="显示在底部" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">博客与编辑器</title>
+            <link rel="alternate" type="text/html" href="https://wss.cool/blog-and-editor/" />
+            <id>https://wss.cool/blog-and-editor/</id>
+            <updated>2019-10-18T08:47:32+08:00</updated>
+            <published>2019-06-23T21:12:32+08:00</published>
+            <author>
+                    <name>wangshushuo</name>
+                    <uri>https://wss.cool/</uri>
+                    <email>wangshushuo@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[使用vscode开源的编辑器，制作一个在线的博客编辑器。]]></summary>
+            
+                <content type="html"><![CDATA[<h1 id="初衷">初衷</h1>
+<p>博客的内容时使用git管理的。在公司的电脑和家里的两台电脑上都有写博客的需求，那么在3个端的每次的pull和push就显得有一点麻烦。如果有一个基于浏览器访问的编辑器就舒服多了。</p>
+<h1 id="构思">构思</h1>
+<p>我的博客使用了hugo，它的内容是基于markdown或html的，所以如果把博客源文件放在服务器上，同时搭建一个可以编辑这些源文件的后台，就可以实现基于浏览器编辑博客了。</p>
+<p>vscode开源了他们的编辑器monaco-editor，可以使用它作为浏览器中的编辑器。</p>
+<p>在搭建一个后台程序来读取博客文章内容，配合若干接口实现保存、创建、删除、登录等功能即可。</p>
+<h1 id="editor项目">editor项目</h1>
+<p>此项目作为后台服务，需要提供的接口有：</p>
+<ol>
+<li>创建文章</li>
+<li>保存文章</li>
+<li>提交到git并push到仓库，并打包发布。</li>
+</ol>
+<p>准备使用golang实现。需要用到的golang的api有：</p>
+<blockquote>
+<p>还没设计</p>
+</blockquote>
+<h2 id="制作-image">制作 image</h2>
+<pre><code>sudo docker image build -t myeditor .
+</code></pre><h2 id="启动容器">启动容器</h2>
+<pre><code>sudo docker container run -d  --rm -p 3000:3000 -v &quot;/home/wang/code/hugo/content/posts&quot;:/app/blog myeditor
+</code></pre><h1 id="hugo-项目中的-docker">hugo 项目中的 docker</h1>
+<h2 id="生成-image">生成 image</h2>
+<pre><code>sudo docker image build -t site .
+</code></pre><h2 id="启动-nginx-容器">启动 nginx 容器</h2>
+<pre><code>sudo docker container run --rm --name myblog \
+-p 80:80 -p 443:443 -d \
+--volume &quot;$PWD/public&quot;:/usr/share/nginx/html site
+</code></pre><h2 id="打包-hugo">打包 hugo</h2>
+<pre><code>hugo --baseURL https://wowfriday.cn/
+</code></pre><pre><code>hugo serve --renderToDisk --baseURL https://wowfriday.cn/ --appendPort=false
+hugo serve --renderToDisk --appendPort=false
+</code></pre>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/categories/%E7%94%9F%E4%BA%A7%E5%8A%9B/" term="生产力" label="生产力" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/tags/hugo/" term="hugo" label="hugo" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/tags/%E7%BC%96%E8%BE%91%E5%99%A8/" term="编辑器" label="编辑器" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">互联网协议</title>
+            <link rel="alternate" type="text/html" href="https://wss.cool/internet-protocol-suite.html" />
+            <id>https://wss.cool/internet-protocol-suite.html</id>
+            <updated>2020-03-27T17:23:20+00:00</updated>
+            <published>2019-05-15T02:30:07+00:00</published>
+            <author>
+                    <name>wangshushuo</name>
+                    <uri>https://wss.cool/</uri>
+                    <email>wangshushuo@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[阮一峰《互联网协议》链接
+ +--------------------+ | 网 落 层 | +----------------+---+ | v +----+-------------------+ | 传 输 层 | +------------------------+  1、实体层 光缆、电缆、无线电波（网线，光纤、wifi）等物理手段，传输电信号0和1。
+2、链接层 单纯的0和1没有意义。“链接层”在“实体层”上方确定0和1的组合方式，每个电信号位的意义。
+早期每个公司有自己的电信号组合方式，后来“以太网”协议逐渐占据主导地位。以太网规定，一组电信号组成一个数据包，叫做“帧”，每一帧分成两部分：标头（Head）和数据（Data）。
+“标头”包含数据包的说明信息，比如发送者、接受者、数据类型等。
+“数据”则是数据包的具体内容。
+“标头”固定18字节，“数据”46-1500字节。如果数据过长，要分割成多个帧进行发送。
+MAC地址 上面提到，以太网数据包的”标头”，包含了发送者和接受者的信息。那么，发送者和接受者是如何标识呢？
+以太网规定，连入网络的所有设备，都必须具有”网卡”接口。数据包必须是从一块网卡，传送到另一块网卡。网卡的地址，就是数据包的发送地址和接收地址，这叫做MAC地址。
+每块网卡出厂的时候，都有一个全世界独一无二的MAC地址，长度是48个二进制位，通常用12个十六进制数表示。
+前6个十六进制数是厂商编号，后6个是该厂商的网卡流水号。有了MAC地址，就可以定位网卡和数据包的路径了。
+广播 以太网不会准确把数据包发送给接收方，它会向整个网络内的所有计算机发送数据包，由计算机自己判断是否为接收方。
+ 为什么不准确的发送呢？广播的反义词是路由吗？
+ 有了数据包的定义、网卡的MAC地址、广播的发送方式，”链接层”就可以在多台计算机之间传送数据了。
+3、网络层 3.1、网络层的由来 以太网协议，依靠MAC地址发送数据包，而且限制在发送者所在的子网络。互联网是由无数子网络组成的，不同子网络的计算机，不能通过以太网协议发送数据包。]]></summary>
+            
+                <content type="html"><![CDATA[<blockquote>
+<p>阮一峰《互联网协议》<a href="http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html">链接</a></p>
+</blockquote>
+<pre><code>+--------------------+
+|      网 落 层       |
++----------------+---+
+                 |
+                 v
+            +----+-------------------+
+            |     传 输 层            |
+            +------------------------+
+
+</code></pre><figure class="wp-block-image"><img src="/uploads/2019/05/image-15.png" alt="" class="wp-image-377"   /> </figure> 
+<h2 id="1实体层">1、实体层</h2>
+<p>光缆、电缆、无线电波（网线，光纤、wifi）等物理手段，传输电信号0和1。</p>
+<h2 id="2链接层">2、链接层</h2>
+<p>单纯的0和1没有意义。“链接层”在“实体层”上方确定0和1的组合方式，每个电信号位的意义。</p>
+<p>早期每个公司有自己的电信号组合方式，后来“以太网”协议逐渐占据主导地位。以太网规定，一组电信号组成一个数据包，叫做“帧”，每一帧分成两部分：标头（Head）和数据（Data）。<figure class="wp-block-image"></p>
+<p><img src="/uploads/2019/05/image-16.png" alt="" class="wp-image-380"   /> </figure></p>
+<p>“标头”包含数据包的说明信息，比如发送者、接受者、数据类型等。</p>
+<p>“数据”则是数据包的具体内容。</p>
+<p>“标头”固定18字节，“数据”46-1500字节。如果数据过长，要分割成多个帧进行发送。</p>
+<h3 id="mac地址">MAC地址</h3>
+<p>上面提到，以太网数据包的”标头”，包含了发送者和接受者的信息。那么，发送者和接受者是如何标识呢？</p>
+<p>以太网规定，连入网络的所有设备，都必须具有”网卡”接口。数据包必须是从一块网卡，传送到另一块网卡。网卡的地址，就是数据包的发送地址和接收地址，这叫做MAC地址。</p>
+<p>每块网卡出厂的时候，都有一个全世界独一无二的MAC地址，长度是48个二进制位，通常用12个十六进制数表示。<figure class="wp-block-image"></p>
+<p><img src="/uploads/2019/05/image-17.png" alt="" class="wp-image-382"   /> </figure></p>
+<p>前6个十六进制数是厂商编号，后6个是该厂商的网卡流水号。有了MAC地址，就可以定位网卡和数据包的路径了。</p>
+<h3 id="广播">广播</h3>
+<p>以太网不会准确把数据包发送给接收方，它会向整个网络内的所有计算机发送数据包，由计算机自己判断是否为接收方。</p>
+<blockquote>
+<p>为什么不准确的发送呢？广播的反义词是路由吗？</p>
+</blockquote>
+<p>有了数据包的定义、网卡的MAC地址、广播的发送方式，”链接层”就可以在多台计算机之间传送数据了。</p>
+<h2 id="3网络层">3、网络层</h2>
+<h3 id="31网络层的由来">3.1、网络层的由来</h3>
+<p>以太网协议，依靠MAC地址发送数据包，而且限制在发送者所在的子网络。互联网是由无数子网络组成的，不同子网络的计算机，不能通过以太网协议发送数据包。</p>
+<blockquote>
+<p>所以“以太网”的协议都规定了哪些事？1.根据mac地址发送数据包，2.现在子网络，3.？？？</p>
+</blockquote>
+<blockquote>
+<p>子网络是什么？怎么定义的？</p>
+</blockquote>
+<p>所以不同子网络的计算机怎么办呢？又怎么区分哪些MAC地址属于同一子网络呢？</p>
+<p>答案是创造一个“网络层 ”，它引入了一套新的地址，使得我们能够区分不同的计算机是否属于同一网络。这套地址叫做“网络地址”，简称“网址”。</p>
+<p>所以每台计算机有两个地址，一个是MAC地址，另一个是网络地址。MAC绑定到网卡，网络地址由管理员分配。</p>
+<p>网络地址帮助我们确定计算机所在的子网络，MAC地址将数据包发送到该子网络的网卡。</p>
+<h3 id="32ip协议">3.2、IP协议</h3>
+<h4 id="321什么是ip协议">3.2.1、什么是IP协议</h4>
+<p>规定网络地址的协议叫做IP协议。它所定义的地址，叫做IP地址。</p>
+<p>IP协议的第四版，简称IPv4。这个版本规定，网络地址由32个二进制位组成，习惯上，我们用4段10进制表示IP地址，从0.0.0.0一直到255.255.255.255。</p>
+<h4 id="322怎么通过ip地址确定子网络">3.2.2、怎么通过IP地址确定子网络</h4>
+<p>一个IP地址分成两个部分，前一部分代表网络，后一部分代表主机。比如172.16.254.1中，前三段代表网络，最后一段代表主机。处于同一子网络的计算机，它们的网络部分一定是相同的，但不一定是由前三段代表网络部分。</p>
+<pre class="wp-block-verse">可能只是前2段？第一段？</pre>
+<p>所以需要一个参数来标记网络部分。这个参数叫“子网掩码”。</p>
+<p>“子网掩码”形式上与IP地址一样，都是32位二进制数字。如果一个IP地址的前24位为网络部分，子网掩码表示为11111111.11111111.11111111.00000000 。这个子网掩码会与IP地址做<strong>AND运算</strong>，如果两个IP的结果相同，就表示在同一个子网络。</p>
+<h3 id="33-ip数据包">3.3 IP数据包</h3>
+<p>IP数据包与以太网数据包类似，也分为Head和Data两个部分。<figure class="wp-block-image"></p>
+<p><img src="/uploads/2019/05/image-18.png" alt="" class="wp-image-387"   /> </figure></p>
+<p>Head部分主要包含版本、长度、IP地址等信息。Data部分为具体数据。它放进以太网数据包后，就成了这样：<figure class="wp-block-image"></p>
+<p><img src="/uploads/2019/05/image-19.png" alt="" class="wp-image-388"   /> </figure></p>
+<p>IP数据包的Head部分长度为20-60字节，整个数据包最多65535字节。IP数据包可能会被分割成多个以太网数据包。</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/categories/%E5%89%8D%E7%AB%AF/" term="前端" label="前端" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">浏览器缓存</title>
+            <link rel="alternate" type="text/html" href="https://wss.cool/browser-cache.html" />
+            <id>https://wss.cool/browser-cache.html</id>
+            <updated>2020-03-27T17:23:20+00:00</updated>
+            <published>2019-03-14T02:23:03+00:00</published>
+            <author>
+                    <name>wangshushuo</name>
+                    <uri>https://wss.cool/</uri>
+                    <email>wangshushuo@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[浏览器的缓存机制的学习笔记。Browser caching mechanism]]></summary>
+            
+                <content type="html"><![CDATA[<p>看了<a href="https://juejin.im/entry/5ad86c16f265da505a77dca4">这篇文章</a>后记录下自己的理解。</p>
+<p>缓存有2步：强制缓存和协商缓存。就是通过一些手段，设置强制缓存，让文件保存在本地硬盘，当强制缓存失效后，再通过与服务器协商看是否更新缓存文件。</p>
+<h2 id="强制缓存">强制缓存</h2>
+<p>强制缓存会把文件缓存在本地，当缓存未过期时访问网站，浏览器会直接使用缓存的资源。</p>
+<p>控制强制缓存的字段分别是Expires和Cache-Control，其中Cache-Control优先级比Expires高。</p>
+<p>Expires是过时的方式，不推荐使用。推荐使用Cache-Control来控制。</p>
+<p>Cache-Control用的多的值是如下几个：</p>
+<ul>
+<li>public：（强制缓存）所有内容都将被缓存（客户端和代理服务器都可缓存）</li>
+<li>private：<br>
+（强制缓存） 所有内容只有客户端可以缓存，Cache-Control的默认取值</li>
+<li>no-cache：（协商缓存）客户端缓存内容，但是是否使用缓存则需要经过协商缓存来验证决定</li>
+<li>no-store：（决定不使用缓存）所有内容都不会被缓存，即不使用强制缓存，也不使用协商缓存</li>
+<li>max-age=xxx (xxx is numeric)：缓存内容将在xxx秒后失效</li>
+</ul>
+<h2 id="协商缓存">协商缓存</h2>
+<p>协商缓存就是强制缓存失效后，浏览器携带<strong>缓存标识</strong>向服务器发起请求，由服务器根据<strong>缓存标识</strong>决定是否使用缓存的过程。</p>
+<p><strong>缓存标识</strong>是响应报文的HTTP头中和请求结果一起返回给浏览器的。</p>
+<p><strong>缓存标识</strong>有2组：</p>
+<ul>
+<li>【Last-Modified / If-Modified-Since 】</li>
+<li>【Etag / If-None-Match】</li>
+</ul>
+<p>【Etag / If-None-Match】优先级较高。</p>
+<h3 id="last-modified--if-modified-since">Last-Modified / If-Modified-Since</h3>
+<p>Last-Modified是服务器响应请求时，返回该资源文件在服务器最后被修改的时间。</p>
+<p>If-Modified-Since则是客户端再次发起该请求时，携带上次请求返回的Last-Modified值。服务器通过比较这个值判断缓存是否失效。</p>
+<p>协商缓存生效，返回304，浏览器使用缓存。</p>
+<p>协商缓存失效，返回200和请求结果 。</p>
+<h3 id="etag--if-none-match">Etag / If-None-Match</h3>
+<p>Etag是服务器响应请求时，返回当前资源文件的一个唯一标识（由服务器生成）。</p>
+<p>If-None-Match是客户端再次发起该请求时，携带上次请求返回的唯一标识Etag值。服务器通过比较这个值判断缓存是否失效。</p>
+<p>协商缓存生效，返回304，浏览器使用缓存。</p>
+<p>协商缓存失效，返回200和请求结果 。</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/categories/%E5%89%8D%E7%AB%AF/" term="前端" label="前端" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/tags/cache/" term="cache" label="cache" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/tags/cache-control/" term="cache-control" label="cache-control" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/tags/etag/" term="etag" label="etag" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/tags/expires/" term="expires" label="expires" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/tags/if-modified-since/" term="if-modified-since" label="if-modified-since" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/tags/if-none-match/" term="if-none-match" label="if-none-match" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/tags/last-modified/" term="last-modified" label="last-modified" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">处理bug心得</title>
+            <link rel="alternate" type="text/html" href="https://wss.cool/%E5%A4%84%E7%90%86bug%E5%BF%83%E5%BE%97.html" />
+            <id>https://wss.cool/%E5%A4%84%E7%90%86bug%E5%BF%83%E5%BE%97.html</id>
+            <updated>2020-03-27T17:23:20+00:00</updated>
+            <published>2018-12-21T16:21:39+00:00</published>
+            <author>
+                    <name>wangshushuo</name>
+                    <uri>https://wss.cool/</uri>
+                    <email>wangshushuo@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[处理bug分三步：确认位置及原因，解决方案，实现代码。
+bug数量大时，如果领导在乎数量，先解决一下容易，让数量下降一些。如果在乎重要问题，就优先处理。
+处理多个bug，按三步走，10分钟确认代码位置及原因，20分钟想解决方案，30分钟实现代码及测试。
+如果某一步卡住了，就记录下来换下一个bug，积攒几个一起请领导支持。]]></summary>
+            
+                <content type="html"><![CDATA[<p>处理bug分三步：确认位置及原因，解决方案，实现代码。</p>
+<p>bug数量大时，如果领导在乎数量，先解决一下容易，让数量下降一些。如果在乎重要问题，就优先处理。</p>
+<p>处理多个bug，按三步走，10分钟确认代码位置及原因，20分钟想解决方案，30分钟实现代码及测试。</p>
+<p>如果某一步卡住了，就记录下来换下一个bug，积攒几个一起请领导支持。</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/" term="未分类" label="未分类" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">测试框架 Mocha</title>
+            <link rel="alternate" type="text/html" href="https://wss.cool/%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6-mocha.html" />
+            <id>https://wss.cool/%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6-mocha.html</id>
+            <updated>2020-03-27T17:23:20+00:00</updated>
+            <published>2018-12-20T06:38:42+00:00</published>
+            <author>
+                    <name>wangshushuo</name>
+                    <uri>https://wss.cool/</uri>
+                    <email>wangshushuo@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[测试框架 Mocha 实例教程 阮一峰
+ 发音为“摩卡”
+1安装 npm install --global mocha 2测试脚本的写法 var add = require('./add.js'); var expect = require('chai').expect; describe('加法函数的测试', function() { it('1 加 1 应该等于 2', function() { expect(add(1, 1)).to.be.equal(2); }); }); 这个脚本测试add.js文件，所以命名为add.test.js（表示测试）或者add.spec.js（表示规格）。
+测试脚本里面应该包括一个或多个describe块，每个describe块应该包括一个或多个it块。
+describe块称为”测试套件”（test suite），表示一组相关的测试。它是一个函数，第一个参数是测试套件的名称（”加法函数的测试”），第二个参数是一个实际执行的函数。
+it块称为”测试用例”（test case），表示一个单独的测试，是测试的最小单位。它也是一个函数，第一个参数是测试用例的名称（”1 加 1 应该等于 2″），第二个参数是一个实际执行的函数。]]></summary>
+            
+                <content type="html"><![CDATA[<blockquote class="wp-block-quote">
+  <p>
+    <a href="http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html">测试框架 Mocha 实例教程</a>
+  </p>
+<p><cite>阮一峰</cite></p>
+</blockquote>
+<p>发音为“摩卡”</p>
+<h2 id="1安装">1安装</h2>
+<pre class="wp-block-code"><code>npm install --global mocha</code></pre>
+<h2 id="2测试脚本的写法">2测试脚本的写法</h2>
+<pre class="wp-block-code"><code>var add = require('./add.js');
+var expect = require('chai').expect;
+
+describe('加法函数的测试', function() {
+  it('1 加 1 应该等于 2', function() {
+    expect(add(1, 1)).to.be.equal(2);
+  });
+});</code></pre>
+<p>这个脚本测试<code>add.js</code>文件，所以命名为<code>add.test.js</code>（表示测试）或者<code>add.spec.js</code>（表示规格）。</p>
+<p>测试脚本里面应该包括一个或多个<code>describe</code>块，每个<code>describe</code>块应该包括一个或多个<code>it</code>块。</p>
+<p><code>describe</code>块称为”测试套件”（test suite），表示一组相关的测试。它是一个函数，第一个参数是测试套件的名称（”加法函数的测试”），第二个参数是一个实际执行的函数。</p>
+<p><code>it</code>块称为”测试用例”（test case），表示一个单独的测试，是测试的最小单位。它也是一个函数，第一个参数是测试用例的名称（”1 加 1 应该等于 2″），第二个参数是一个实际执行的函数。</p>
+<h2 id="3断言库的用法">3断言库的用法</h2>
+<p>上面的测试脚本里面，有一句断言。</p>
+<pre class="wp-block-code"><code>expect(add(1, 1)).to.be.equal(2);</code></pre>
+<p>所谓”断言”，就是判断源码的实际执行结果与预期结果是否一致，如果不一致就抛出一个错误。上面这句断言的意思是，调用<code>add(1, 1)</code>，结果应该等于2。</p>
+<p>所有的测试用例（it块）都应该含有一句或多句的断言。它是编写测试用例的关键。断言功能由断言库来实现，Mocha本身不带断言库，所以必须先引入断言库。</p>
+<pre class="wp-block-code"><code>var expect = require('chai').expect;</code></pre>
+<p>断言库有很多种，Mocha并不限制使用哪一种。上面代码引入的断言库是<a href="http://chaijs.com/" target="_blank" rel="noreferrer noopener"><code>chai</code></a>，并且指定使用它的<a href="http://chaijs.com/api/bdd/" target="_blank" rel="noreferrer noopener"><code>expect</code></a>断言风格。</p>
+<p><code>expect</code>断言的优点是很接近自然语言，下面是一些例子。</p>
+<pre class="wp-block-code"><code>// 相等或不相等
+expect(4 + 5).to.be.equal(9);
+expect(4 + 5).to.be.not.equal(10);
+expect(foo).to.be.deep.equal({ bar: 'baz' });
+
+// 布尔值为true
+expect('everthing').to.be.ok;
+expect(false).to.not.be.ok;
+
+// typeof
+expect('test').to.be.a('string');
+expect({ foo: 'bar' }).to.be.an('object');
+expect(foo).to.be.an.instanceof(Foo);
+
+// include
+expect([1,2,3]).to.include(2);
+expect('foobar').to.contain('foo');
+expect({ foo: 'bar', hello: 'universe' }).to.include.keys('foo');
+
+// empty
+expect([]).to.be.empty;
+expect('').to.be.empty;
+expect({}).to.be.empty;
+
+// match
+expect('foobar').to.match(/^foo/);</code></pre>
+<p>基本上，<code>expect</code>断言的写法都是一样的。头部是<code>expect</code>方法，尾部是断言方法，比如<code>equal</code>、<code>a</code>/<code>an</code>、<code>ok</code>、<code>match</code>等。两者之间使用<code>to</code>或<code>to.be</code>连接。</p>
+<p>如果<code>expect</code>断言不成立，就会抛出一个错误。事实上，只要不抛出错误，测试用例就算通过。</p>
+<h2 id="4mocha的基本用法">4Mocha的基本用法</h2>
+<p>有了测试脚本以后，就可以用Mocha运行它。进入add.test.js目录，执行下面的命令。</p>
+<pre class="wp-block-code"><code>$ mocha add.test.js
+
+  加法函数的测试
+    ✓ 1 加 1 应该等于 2
+
+  1 passing (8ms)</code></pre>
+<p>上面的运行结果表示，测试脚本通过了测试，一共只有1个测试用例，耗时是8毫秒。</p>
+<p><code>mocha</code>执行多个测试脚本：</p>
+<pre class="wp-block-code"><code>$ mocha file1 file2 file3 
+$ mocha</code></pre>
+<p>mocha﻿执行目录下所有脚本：</p>
+<pre class="wp-block-code"><code>$ mocha
+
+  加法函数的测试
+    ✓ 1 加 1 应该等于 2
+    ✓ 任何数加0应该等于自身
+
+  2 passing (9ms)</code></pre>
+<p>执行当前目录及子目录的脚本：</p>
+<pre class="wp-block-code"><code>$ mocha --recursive
+
+  加法函数的测试
+    ✓ 1 加 1 应该等于 2
+    ✓ 任何数加0应该等于自身
+
+  乘法函数的测试
+    ✓ 1 乘 1 应该等于 1
+
+  3 passing (9ms)</code></pre>
+<p>监视自动运行：–watch，-w</p>
+<pre class="wp-block-code"><code>$ mocha --watch</code></pre>
+<p>有错误立即停止：–bail, -b</p>
+<pre class="wp-block-code"><code>$ mocha --bail</code></pre>
+<h2 id="5配置文件mochaopts">5配置文件mocha.opts</h2>
+<p>测试目录下的<a rel="noreferrer noopener" href="https://github.com/ruanyf/mocha-demos/blob/master/demo03/test/mocha.opts" target="_blank"><code>mocha.opts</code></a>文件：</p>
+<pre class="wp-block-code"><code>--reporter tap
+--recursive
+--growl</code></pre>
+<p>它使得执行mocha与执行mocha –reporter tap –recursive –growl等效。</p>
+<p>还可以指定目录：</p>
+<pre class="wp-block-code"><code>server-tests
+--recursive</code></pre>
+<p>上面代码指定运行<code>server-tests</code>目录及其子目录之中的测试脚本。</p>
+<h2 id="6es6测试">6ES6测试</h2>
+<pre class="wp-block-code"><code>import add from '../src/add.js';</code></pre>
+<p>ES6转码，需要安装Babel。</p>
+<pre class="wp-block-code"><code>$ npm install babel-core babel-preset-es2015 --save-dev</code></pre>
+<p>然后，在项目目录下面，新建一个<a rel="noreferrer noopener" href="https://github.com/ruanyf/mocha-demos/blob/master/demo04/.babelrc" target="_blank"><code>.babelrc</code></a>配置文件。</p>
+<pre class="wp-block-code"><code>{
+  "presets": [ "es2015" ]
+}</code></pre>
+<p>最后，使用<code>--compilers</code>参数指定测试脚本的转码器。</p>
+<pre class="wp-block-code"><code>$ ../node_modules/mocha/bin/mocha --compilers js:babel-core/register</code></pre>
+<pre class="wp-block-code"><code>$ mocha --require coffee-script/register --watch --watch-extensions js,coffee "test/**/*.{js,coffee}"</code></pre>
+<h2 id="7异步测试">7异步测试</h2>
+<p>不用先不抄了</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://wss.cool/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/" term="未分类" label="未分类" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
