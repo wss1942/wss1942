@@ -24,5 +24,5 @@ jobs:
           external_repository: wss1942/wss1942
           publish_dir: ./public
           keep_files: true
-          publish_branch: master
+          publish_branch: gh-pages
           cname: wss.cool
