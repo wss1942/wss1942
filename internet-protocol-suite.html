@@ -93,7 +93,7 @@ MAC地址 上面提到，以太网数据包的”标头”，包含了发送者�
         "@context": "https://schema.org",
         "@type": "BlogPosting",
         "datePublished": "2019-05-15T02:30:07+00:00",
-        "dateModified": "2020-03-27T17:23:26+00:00",
+        "dateModified": "2020-03-27T17:30:53+00:00",
         "url": "https://wss.cool/internet-protocol-suite.html",
         "headline": "互联网协议",
         "description": "阮一峰《互联网协议》链接\n +--------------------+ | 网 落 层 | +----------------+---+ | v +----+-------------------+ | 传 输 层 | +------------------------+  1、实体层 光缆、电缆、无线电波（网线，光纤、wifi）等物理手段，传输电信号0和1。\n2、链接层 单纯的0和1没有意义。“链接层”在“实体层”上方确定0和1的组合方式，每个电信号位的意义。\n早期每个公司有自己的电信号组合方式，后来“以太网”协议逐渐占据主导地位。以太网规定，一组电信号组成一个数据包，叫做“帧”，每一帧分成两部分：标头（Head）和数据（Data）。\n“标头”包含数据包的说明信息，比如发送者、接受者、数据类型等。\n“数据”则是数据包的具体内容。\n“标头”固定18字节，“数据”46-1500字节。如果数据过长，要分割成多个帧进行发送。\nMAC地址 上面提到，以太网数据包的”标头”，包含了发送者和接受者的信息。那么，发送者和接受者是如何标识呢？\n以太网规定，连入网络的所有设备，都必须具有”网卡”接口。数据包必须是从一块网卡，传送到另一块网卡。网卡的地址，就是数据包的发送地址和接收地址，这叫做MAC地址。\n每块网卡出厂的时候，都有一个全世界独一无二的MAC地址，长度是48个二进制位，通常用12个十六进制数表示。\n前6个十六进制数是厂商编号，后6个是该厂商的网卡流水号。有了MAC地址，就可以定位网卡和数据包的路径了。\n广播 以太网不会准确把数据包发送给接收方，它会向整个网络内的所有计算机发送数据包，由计算机自己判断是否为接收方。\n 为什么不准确的发送呢？广播的反义词是路由吗？\n 有了数据包的定义、网卡的MAC地址、广播的发送方式，”链接层”就可以在多台计算机之间传送数据了。\n3、网络层 3.1、网络层的由来 以太网协议，依靠MAC地址发送数据包，而且限制在发送者所在的子网络。互联网是由无数子网络组成的，不同子网络的计算机，不能通过以太网协议发送数据包。",
@@ -163,7 +163,7 @@ MAC地址 上面提到，以太网数据包的”标头”，包含了发送者�
 <meta property="og:locale" content="en" /><meta property="og:image" content="https://wss.cool/uploads/2019/05/image-15.png" />
 <meta property="og:type" content="article" />
     <meta property="article:published_time" content="2019-05-15T02:30:07+00:00" />
-    <meta property="article:modified_time" content="2020-03-27T17:23:26+00:00" />
+    <meta property="article:modified_time" content="2020-03-27T17:30:53+00:00" />
     
     <meta property="article:section" content="posts" />
 
@@ -276,7 +276,7 @@ MAC地址 上面提到，以太网数据包的”标头”，包含了发送者�
     
     
         
-        <time datetime="2020-03-27T17:23:26+00:00" class="post-meta-item modified"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon post-meta-icon"><path d="M400 64h-48V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H160V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H48C21.49 64 0 85.49 0 112v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm-6 400H54a6 6 0 0 1-6-6V160h352v298a6 6 0 0 1-6 6zm-52.849-200.65L198.842 404.519c-4.705 4.667-12.303 4.637-16.971-.068l-75.091-75.699c-4.667-4.705-4.637-12.303.068-16.971l22.719-22.536c4.705-4.667 12.303-4.637 16.97.069l44.104 44.461 111.072-110.181c4.705-4.667 12.303-4.637 16.971.068l22.536 22.718c4.667 4.705 4.636 12.303-.069 16.97z"/></svg>&nbsp;2020.3.27</time>
+        <time datetime="2020-03-27T17:30:53+00:00" class="post-meta-item modified"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon post-meta-icon"><path d="M400 64h-48V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H160V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H48C21.49 64 0 85.49 0 112v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm-6 400H54a6 6 0 0 1-6-6V160h352v298a6 6 0 0 1-6 6zm-52.849-200.65L198.842 404.519c-4.705 4.667-12.303 4.637-16.971-.068l-75.091-75.699c-4.667-4.705-4.637-12.303.068-16.971l22.719-22.536c4.705-4.667 12.303-4.637 16.97.069l44.104 44.461 111.072-110.181c4.705-4.667 12.303-4.637 16.971.068l22.536 22.718c4.667 4.705 4.636 12.303-.069 16.97z"/></svg>&nbsp;2020.3.27</time>
     
     
     
@@ -390,7 +390,7 @@ MAC地址 上面提到，以太网数据包的”标头”，包含了发送者�
 
 
         
-    <div class="updated-badge-container"><div title="Updated @ 2020-03-27 17:23:26 UTC" style="cursor:help;display:inline-block">
+    <div class="updated-badge-container"><div title="Updated @ 2020-03-27 17:30:53 UTC" style="cursor:help;display:inline-block">
 
 <svg xmlns="http://www.w3.org/2000/svg" width="130" height="20" class="updated-badge"><linearGradient id="b" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="a"><rect width="130" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#a)"><path class="updated-badge-left" d="M0 0h55v20H0z"/><path class="updated-badge-right" d="M55 0h75v20H55z"/><path fill="url(#b)" d="M0 0h130v20H0z"/></g><g fill="#fff" text-anchor="middle" font-size="110"><text x="285" y="150" fill="#010101" fill-opacity=".3" textLength="450" transform="scale(.1)">updated</text><text x="285" y="140" textLength="450" transform="scale(.1)">updated</text><text x="915" y="150" fill="#010101" fill-opacity=".3" textLength="650" transform="scale(.1)">2020-03-27</text><text x="915" y="140" textLength="650" transform="scale(.1)">2020-03-27</text></g></svg></div></div>
 
