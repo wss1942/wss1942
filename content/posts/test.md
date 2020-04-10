@@ -1,5 +1,5 @@
 ---
-title: SSH123
+title: SSH12
 url: /SSH.html
 author: 王书硕
 date: 2020-03-31T08:37:31+08:00
@@ -13,7 +13,7 @@ categories:
 ---
 
 在自己的电脑上生成公钥、密钥。公钥放在远程服务器上，密钥在自己电脑里不用管。连接远程服务器时就不用输入密码了。
-123
+12
 ## 安装
 
 sudo apt-get install openssh-server
